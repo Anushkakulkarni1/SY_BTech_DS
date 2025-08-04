@@ -17,7 +17,7 @@ int main() {
         }
         cards[j + 1] = key;
     }
-    printf("Sorted array: ");
+    printf("Sorted cards: ");
     for (i = 0; i < n; i++) {
         printf("%d ", cards[i]);
     }
